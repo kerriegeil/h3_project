@@ -1,0 +1,12 @@
+web sources about hex grid
+
+python code examples:
+https://python.plainenglish.io/creating-beautiful-hexagon-maps-with-python-25c9291eeeda
+https://geographicdata.science/book/data/h3_grid/build_sd_h3_grid.html
+https://gis.utah.gov/blog/2022-10-26-using-h3-hexes/
+https://github.com/uber/h3-py-notebooks/blob/master/notebooks/unified_data_layers.ipynb
+
+
+why hexagons
+https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-whyhexagons.htm
+https://www.snowflake.com/blog/getting-started-with-h3-hexagonal-grid/

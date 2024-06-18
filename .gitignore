@@ -134,6 +134,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# vs code worspace
+*.code-workspace*
+
 # Rope project settings
 .ropeproject
 
